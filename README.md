@@ -1,7 +1,7 @@
 # Gems-Dark-Theme_Arduino ✨💜
 
 ## Gem's Dark, theme for Arduino IDE 👨🏼‍💻
-### English 🇬🇧🇺🇸
+### Description in english 🇬🇧🇺🇸
 This is a theme developed for the Arduino IDE.
 It was created and inspired by: [One Dark](https://github.com/konrad91/OneDarkArduino).
 The differences from the original theme are:
@@ -15,11 +15,13 @@ The differences from the original theme are:
 - Different color in multi-line comments and use of *italics*.
 - Different color in the operators (`<`, `>`, `+`, `-`, `*`, `/`, `=`, etc).
 
-⚙️ The installation was tested on Arduino IDE 1.8.15. You must copy the "theme" folder of this repository in the following macOS location: `~/Applications/Arduino.app/Contents/Java/lib/` (for Windows use `C:\Program Files (x86)\Arduino\lib`; and for Linux use `/usr/share/arduino/lib/`). It is recommended to rename the folder in that location to "theme_original", before pasting the one in this repository.
+### ⚙️ Installation
+The installation was tested on Arduino IDE 1.8.15. You must copy the `theme` folder of this repository in the following macOS location: `~/Applications/Arduino.app/Contents/Java/lib/` (for Windows use `C:\Program Files (x86)\Arduino\lib`; and for Linux use `/usr/share/arduino/lib/`). It is recommended to rename the folder in that location to `theme_original`, before pasting the one in this repository.
+Additionally, we recommend changing the font to "Menlo" for the editor. This is achieved by editing the file `Preferences.txt` ([tutorial](https://support.arduino.cc/hc/en-us/articles/4402771781522-How-to-change-IDE-text-font-settings)).
 
 
 ## Gem's Dark, tema para el IDE de Arduino 👨🏼‍💻
-### Español 🇪🇸🇲🇽
+### Descripción en español 🇪🇸🇲🇽
 Este es un tema desarrollado para el IDE de Arduino.
 Fue creado e inspirado gracias a: [One Dark](https://github.com/konrad91/OneDarkArduino).
 Las diferencias con el tema original son:
@@ -33,7 +35,9 @@ Las diferencias con el tema original son:
 - Diferente color en los comentarios de múltiples líneas y uso de *letras cursivas*.
 - Diferente color en los operadores (`<`, `>`, `+`, `-`, `*`, `/`, `=`, etc).
 
-⚙️ La instalación se probó con el IDE de Arduino en versión 1.8.15. Deberás de copiar la carpeta "theme" de este repositorio en la siguiente ubicación de macOS: `~/Applications/Arduino.app/Contents/Java/lib/` (en Windows, se encuentra en: `C:\Program Files (x86)\Arduino\lib`; en Linux en: `/usr/share/arduino/lib/`). Se recomienda renombrar a "theme_original" la carpeta que se encuentra en esa ubicación, antes de pegar la de este repositorio.
+### ⚙️ Instalación
+La instalación se probó con el IDE de Arduino en versión 1.8.15. Deberás de copiar la carpeta `theme` de este repositorio en la siguiente ubicación de macOS: `~/Applications/Arduino.app/Contents/Java/lib/` (en Windows, se encuentra en: `C:\Program Files (x86)\Arduino\lib`; en Linux en: `/usr/share/arduino/lib/`). Se recomienda renombrar a `theme_original` la carpeta que se encuentra en esa ubicación, antes de pegar la de este repositorio.
+Adicionalmente, recomendamos cambiar el tipo de letra a "Menlo" para el editor. Esto se consigue editando el archivo `Preferences.txt` ([tutorial](https://support.arduino.cc/hc/en-us/articles/4402771781522-How-to-change-IDE-text-font-settings)).
 
 
 ## Images - Imágenes 🖼
