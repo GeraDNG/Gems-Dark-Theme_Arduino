@@ -1,7 +1,7 @@
-# Gems-Dark-Theme_Arduino ✨💜
+# 💜✨ Gems-Dark-Theme_Arduino ✨💜
 
 ## Gem's Dark, theme for Arduino IDE 👨🏼‍💻
-### Description in english 🇬🇧🇺🇸
+### 🇬🇧🇺🇸 Description in english
 This is a theme developed for the Arduino IDE.
 It was created and inspired by: [One Dark](https://github.com/konrad91/OneDarkArduino).
 The differences from the original theme are:
@@ -21,7 +21,7 @@ Additionally, we recommend changing the font to "Menlo" for the editor. This is 
 
 
 ## Gem's Dark, tema para el IDE de Arduino 👨🏼‍💻
-### Descripción en español 🇪🇸🇲🇽
+### 🇪🇸🇲🇽 Descripción en español
 Este es un tema desarrollado para el IDE de Arduino.
 Fue creado e inspirado gracias a: [One Dark](https://github.com/konrad91/OneDarkArduino).
 Las diferencias con el tema original son:
@@ -40,7 +40,7 @@ La instalación se probó con el IDE de Arduino en versión 1.8.15. Deberás de 
 Adicionalmente, recomendamos cambiar el tipo de letra a "Menlo" para el editor. Esto se consigue editando el archivo `Preferences.txt` ([tutorial](https://support.arduino.cc/hc/en-us/articles/4402771781522-How-to-change-IDE-text-font-settings)).
 
 
-## Images - Imágenes 🖼
+## 🖼 Images - Imágenes
 🇬🇧 You can see the final result in the images.
 🇪🇸 Puedes visualizar el resultado final en las imágenes.
 ![IDE](https://raw.githubusercontent.com/GeraDNG/Gems-Dark-Theme_Arduino/main/IDE.png "IDE")
