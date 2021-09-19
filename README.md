@@ -1,4 +1,4 @@
-# 💜✨ Gems-Dark-Theme_Arduino ✨💜
+# 💜✨ Gems Dark Theme ✨💜
 
 ## Gem's Dark, theme for Arduino IDE 👨🏼‍💻
 ### 🇬🇧🇺🇸 Description in english
